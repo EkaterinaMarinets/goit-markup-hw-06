@@ -688,6 +688,12 @@ img {
   fill: var(--third-txt-color);
 }
 
+.footer-subscribe {
+  display: inline-block;
+  margin-left: auto;
+}
+
+
 .footer-subscribe-title {
   margin-bottom: 20px;
   font-weight: 700;
